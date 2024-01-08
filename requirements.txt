@@ -1,3 +1,4 @@
+python == 3.11.4
 absl-py==2.0.0
 altair==5.2.0
 astunparse==1.6.3
@@ -71,6 +72,7 @@ tensorboard==2.15.1
 tensorboard-data-server==0.7.2
 tensorflow==2.15.0
 tensorflow-estimator==2.15.0
+tensorflow-intel==2.15.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.2.0
